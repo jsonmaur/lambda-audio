@@ -1,3 +1,5 @@
+**NOTE: You must add `LD_LIBRARY_PATH: lib64:$LD_PRIMARY_PATH` to the function environment variables to fix the missing dependency issue.**
+
 # SoX for AWS Lambda
 
 Run Sound eXchange (SoX), the Swiss Army knife of audio manipulation, with Lame on AWS Lambda.
